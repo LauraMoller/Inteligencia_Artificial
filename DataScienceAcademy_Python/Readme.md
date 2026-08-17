@@ -1,4 +1,4 @@
-# AssistenteDePython
+# Professor Asy
  
 This folder contains the exercises developed during the Python course from **Data Science Academy**.
  
@@ -18,7 +18,7 @@ conda activate estudoDeCaso1
 pip install -r requirements.txt
 ```
 --------
-# AssistenteDePython
+# Professor Asy
  
 Esta pasta contém os exercícios desenvolvidos durante o curso de Python da **Data Science Academy**.
  
