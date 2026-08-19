@@ -1,0 +1,4 @@
+lista = [1, 2, 2, 3, 4, 4, 5, 1]
+conjunto = set(lista)
+
+print(f"Conjunto sem números duplicados: {conjunto}")

@@ -1,0 +1,1 @@
+print(f"Potência de 2 elevado a 10: {2**10}")
